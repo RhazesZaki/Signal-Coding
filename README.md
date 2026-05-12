@@ -21,3 +21,4 @@ Bisa buka Link Tugas Siskom.ipynb
 
 ## Output
 ![image alt](https://github.com/RhazesZaki/Signal-Coding/blob/b6b892a00f62cebb81421e42390b29cedf53a3ed/Sinyal%20carrier.png)
+![image alt](https://github.com/RhazesZaki/Signal-Coding/blob/24996216aacc1019e3ae4f8626ed9ef618859ffe/QPSK%20Sinyal.png)
