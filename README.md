@@ -16,7 +16,7 @@ Basic simulations of signals and noise.
 
 Tujuan pembelajaran QPSK adalah memahami proses modulasi digital yang mengubah data biner menjadi sinyal pembawa menggunakan dua carrier orthogonal agar data dapat dikirim lebih efisien.
 
-# Bentuk Soal Bit
+## Bentuk Soal Bit
 ![image alt](https://github.com/RhazesZaki/Signal-Coding/blob/e97e0e1c0d7d50942aec4abe1abdeafdfb36ca3c/IMG_9611.png)
 
 ## Link
